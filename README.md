@@ -1,38 +1,8 @@
 # batocera-zsh
-</b></i>This repo provides preconfigured cli goodies for batocera x86_64 </i><br><br>
-- **zsh** *+ ohmyzsh + plugins + p10k + ~/.zshrc + ~/p10k.zsh*
-- **fish** *+ ohmyfish*
-- **docker**
-- **podman**
-- **distrobox**
-- **git**
-- exa
-- bat / batcat
-- glances
-- aria2c
-- bandwhich
-- btop 
-- dua
-- duf
-- fzf
-- hyperfine
-- icdiff 
-- micro
-- neofetch
-- procs
-- ranger
-- rgrep
-- rip
-- scc
-- screenfetch
-- sd
-- speedtest-cli
-- strings
-- tldr
-- transfersh
-- tre
-- xmlstarlet
-- zoxide 
+</b></i>This repo provides preconfigured cli goodies for batocera x86_64: </i><br><br>
+shells: **zsh** *+ ohmyzsh + plugins + p10k + ~/.zshrc + ~/p10k.zsh* & **fish** *+ ohmyfish* <br>
+containers: **docker, podman, distrobox** <br> 
+utils: **git, exa, bat, glances, aria2c, bandwhich, btop, dua, duf, fzf, hyperfine, icdiff, micro, neofetch, procs, ranger, rgrep, rip, scc, screenfetch, sd, speedtest-cli, strings, tldr, transfersh, tre, xmlstarlet, zoxide** 
 </b><br>
 <br>
 <b><i>INSTALLATION:</i></b><br><br>
