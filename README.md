@@ -40,10 +40,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tar -xf ~/cli.tar.gz <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~/cli/run <br>
 </font></b></i><br><br>
-<u><b><i>NOTE:</i></b></u> ext4 or btrfs filesystem is needed for symlinks <br>
-</i>
-<br>
-<br>
 <br>
 <img src=https://github.com/uureel/batocera-zsh/assets/116395185/8adbb9c8-8745-48bd-9003-15616101a7ef style="width: 50%; height: 50%;"></img>
 <br>
