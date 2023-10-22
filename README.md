@@ -2,10 +2,12 @@
 </b></i>This repo provides preconfigured cli goodies, shells, containers and utils for batocera x86_64 </i><br><br>
 - **zsh** *+ ohmyzsh + plugins + p10k + ~/.zshrc + ~/p10k.zsh*
 - **fish** *+ ohmyfish*
+- **git**
+<br>
 - **docker**
 - **podman**
 - **distrobox**
-- **git**
+<br>
 - exa
 - bat / batcat
 - glances
