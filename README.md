@@ -1,5 +1,5 @@
 # batocera-cli
-</b></i>This repo provides preconfigured cli goodies for batocera x86_64 </i><br><br>
+</b></i>This repo provides preconfigured cli goodies, shells, containers and utils for batocera x86_64 </i><br><br>
 - **zsh** *+ ohmyzsh + plugins + p10k + ~/.zshrc + ~/p10k.zsh*
 - **fish** *+ ohmyfish*
 - **docker**
